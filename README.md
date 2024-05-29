@@ -46,20 +46,19 @@ USE bloodbank;
 
 ## Snapshots
 ### Home Page
-![](snapshots/home.png)
+![](https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/home.png)
 ### Contact Us
-![](snapshots/contact.png)
+![](https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/contact.png)
 ### Register
-![](snapshots/register.png)
-### Login
-![](snapshots/login.png)
-### Dashboard
-![](snapshots/dashboard.png)
+![](https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/register.png)
+
 ### Add Donor
-![](snapshots/donate.png)
-### Donor Logs
-![](snapshots/logs.png)
+![](https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/donate.png
+)
+
 ### Donor Blood Details
-![](snapshots/details.png)
+![](https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/details.png)
 ### Blood Requests
-![](snapshots/requests.png)
+![](
+https://github.com/ap7572/blood-bank-/blob/main/Blood-Bank-Management-System-master/Blood-Bank-Management-System-master/snapshots/requests.png
+)
